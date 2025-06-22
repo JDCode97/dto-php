@@ -1,0 +1,16 @@
+{
+    "name": "jdcode/dto-php",
+    "description": "Simple and flexible Data Transfer Object library with validations",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JDCode\\DtoPhp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    }
+}
